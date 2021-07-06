@@ -1,0 +1,12 @@
+{
+    "name": "giorgi/lab3-tezelashvili",
+    "authors": [
+        {
+            "name": "giorgi tezelashvili",
+            "email": "tezelashvili.giorgi@gtu.ge"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.4"
+    }
+}
